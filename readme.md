@@ -3,7 +3,8 @@
 供别人 debug 使用
 
 
-### 如何运行
+### 运行方法
 ```
-    node 1.js
+npm install
+node 1.js  # 返回很慢
 ```
